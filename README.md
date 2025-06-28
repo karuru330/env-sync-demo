@@ -1,2 +1,2 @@
 # env-sync-demo
-debug = False
+debug = True
